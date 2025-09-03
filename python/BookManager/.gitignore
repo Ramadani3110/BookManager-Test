@@ -1,0 +1,7 @@
+.vscode/
+htmlcov/
+.coverage
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
